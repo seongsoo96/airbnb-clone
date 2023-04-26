@@ -23,7 +23,7 @@
     "no-var": "error",
     "no-multiple-empty-lines": "error",
     // "no-console": ["warn", { "allow": ["error"] }],
-    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "warn",
     "tailwindcss/classnames-order": "off",
     "tailwindcss/no-custom-classname": "warn",
     "no-empty-function": "off",
